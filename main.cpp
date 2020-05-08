@@ -1,4 +1,4 @@
-#include <iostream>
+#include <bits/stdcc++.h>
 
 using namespace std;
 
